@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(255, 100, 100);
+}
+h2 {
+  color: #00f7ff;
+}
+h3 {
+  /* color: rgb(70, 27, 40); */
+  color: hsl(295, 100%, 78%);
+}
+div {
+  background-color: rgb(79, 79, 230);
+}
+
+p {
+  background-color: rgb(226, 116, 116);
+}
