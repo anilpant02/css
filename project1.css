@@ -1,0 +1,27 @@
+.box1 {
+  background-color: coral;
+  height: 250px;
+  width: 500px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+p {
+  width: 750px;
+}
+.box2 {
+  margin-top: 20px;
+  text-align: center;
+  background-color: cornflowerblue;
+  height: 250px;
+  width: 500px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.box3 {
+  margin-top: 20px;
+  text-align: center;
+  background-color: darkkhaki;
+  height: 250px;
+
+  overflow: scroll;
+}
